@@ -1,4 +1,3 @@
-# ckaewla2-sv23-aisheem2-pingali4
 # CS225 Final Project
 
 ## Team Members: Aishee Mondal, Sanjana Pingali, Jeep Kaewla, Sreenidhi Vijayaraghavan ##
